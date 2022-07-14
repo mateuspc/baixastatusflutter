@@ -1,6 +1,6 @@
 # baixar_status
 
-O novo projeto baixar status versão que foi um sucesso.
+O novo projeto baixar status feito em Flutter utilizando o bloc.
 
 ## Getting Started
 
